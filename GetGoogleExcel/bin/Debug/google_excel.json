@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mimetic-plate-392915",
+  "private_key_id": "3941768b9028b5868b90b6416326bea54281f8e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC41Peyl56bOxx4\nqcxpAoSyF0wuGmPmgeTXwKhYHB4silFazedcZKkaI1DBibPSAY+pXLq4nMKyAMjP\ncjRB52VsLlo+F9mr+xp0hWMQiWptdQ8G8wZa6HCesnuMFYaFg78ej/9HJ3gkJh0f\njPdxQQF4if4sDK+kxUM1LbUKYgk2Cnt0vKqIfMOYPFyt/YsOLNdWnNPMkwXO5zfQ\nZxygnugMuPBxk6hZNmVUbfGqnZHHWToKuk0+FZM0ZtCTE6iosQlcTBeqwOXk2UJL\nisrXOahak4AfeTQtnIalQ7dkM9UEJbFqlRik8DzKHxwwjXOmCWyZoVN1s0PbodRd\nCuZNNx8FAgMBAAECggEAARVKsLgce6O8tZPIoZ4+fkz0yQAdZEuQC9Pnzw36mJ+P\nJ/Xw0LG7Y7LTBGW9dW/wPP3IU65fgB7iQZWAFdUwDhscgGjJo5Okz3IiiTibVph5\n47wz7pkeyfjl7nRuX1HNEWT71ruk8qpZ+1dJJUaQlU79czNvkJvVeEMLk9RVQATy\n4LcC9Yb7Ajup5k7J7+wbX7OnwHTWaiyLI0MZUp+i6Qe1eAYjrQlqbWcYsC+eCDWi\nxReL27ssKgfIQFgXUtmDSfMKC6nMCx7Gzy2tzdZjbpyLhhxkZDi5LPmaOOXWW2ni\nbkurykVOX+0JPwl3q0r8NlnKrTX8v5zi2hvswHGBYQKBgQDwZhnNegERYGmS6EDk\nwJ1XqnRdP3Dxo15Yy1e2z2SK29u3u+nZif+KDjwwjB7O+ohs6k8IEkKst9/hfY9b\nUxvSxmDAkw2XqMCjpuTh8E68wZpVpaANEVuvKIAptsaNpUkbSKzkaQHX4to8Nem6\noHH0ZNksk7Q/ufppVXHO+E8N+QKBgQDE07KtmDA9pscwy7iqLwwrJeUx0nYmbQSN\nkEGITrM7SSiFL4DcBeY0n8kANXFq+abHIaFWoKv/xNyCTr7HtUZ3xvseXg9OsJiO\nO0Y0aUzQAJ1yeHt00jCJCRCyiZ2W4NsXJULA3ufJh/1OT6j8A7Bq1DfY+8V0BecC\nHiSU+bqMbQKBgQCVpTkSq4vWoUmW5XTf8PcBB16AXWmVQbkNVSc46UkRF2NisFsV\ny82CxvG41sCm31XlVsXzpEpU8fEvkNWYZ9e+ETdRKTkg2y9vsAhyjQC2h13nSr6i\n49dK5c9CKEDZE7a6gTb+yE8ZcGGhcX4Zap8FH3IBScC+mqrCvymlSPUNIQKBgF0T\nOshKUm2lA0a4339ith9lUSepPYPYQ7HpyIN7q9faNZYdq5LgG0dBVByMKTEME2jR\nJ2k+m3dckWXxdNgdidA0QSXQFu8AJXQE5aL9NHyb/dhWzxKkHp1+su2qk+H4PMKK\nNTHddsBfVVKF6wQZfoBWEH7EOFAwRlhDBsuH+EZVAoGAT0fvimWgi9XnD1HINNRH\n04gxf0R/+XSeiYYb7hT3r8ulr3c5IJ3pZHhDR4jaoP0Vrsjnbqm+b3iSXFy/wnHa\nFEw5Z2ExRM5ce82Vz06YueVY5YvZMPcDTRObPJwTCPm6e4x12d8pNL2fKuL/Y4W0\ntgpMJFa0o5YCjIqEIu0/T9E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "willychen@mimetic-plate-392915.iam.gserviceaccount.com",
+  "client_id": "109676012637141115876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/willychen%40mimetic-plate-392915.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
